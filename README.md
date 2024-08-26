@@ -27,7 +27,7 @@ The project uses a multiple linear regression model to predict the price of groc
 An example prediction made by the model is as follows:
 
 ## Input Features:
-
+- Grocery:tomato
 - Variety: Local
 - Grade: FAQ
 - Min Price: 640
